@@ -1,4 +1,4 @@
-name: Player Info Workflow
+name: Player Info Workflow1
 on:
   workflow_dispatch:
     inputs:
